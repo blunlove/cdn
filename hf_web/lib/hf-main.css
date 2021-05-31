@@ -1,0 +1,46 @@
+@import './element/element-ui@2.13.2.css';
+@import './icons.css';
+:root {
+  width: 100%;
+  height: 100%;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td, img {
+  font-family: 'Helvetica Neue', Helvetica, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  min-width: 1000px;
+  min-height: 500px;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 0 !important;
+}
+#app {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  color: #2c3e50;
+}
+i {
+  text-align: center;
+  font-style: normal;
+}
+a {
+  text-decoration: none;
+}
+textarea {
+  resize: none;
+}
+.collapse-transition {
+  transition: 0.3s all ease-in-out;
+}
+.el-input__inner {
+  height: 32px;
+  line-height: 32px;
+}
+.el-input--small {
+  font-size: 14px;
+}

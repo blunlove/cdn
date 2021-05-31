@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>登录中</title>
+</head>
+<body>
+  <script src="/hf_web/lib/polyfill.min.js"></script>
+  <script src="/hf_web/lib/axios/axios.min.js"></script>
+  <script>
+    var time = 0;
+    setInterval(function() {
+      time++;
+      document.title = '登录中' + '.'.repeat(time % 4);
+    }, 500);
+    var params = location.search.replace('?', '').split('&').reduce(function (sum, item) {
+      var temp = item.split('=');
+      sum[temp[0]] = temp[1];
+      return sum;
+    }, {});
+    axios.post('/app/index/exchange-token', params).then(function (res) {
+      if (res.data.success) {
+        document.cookie = location.origin + "_loginToken=" + res.data.data.loginToken;
+        location.replace(params.systemUrl ? decodeURIComponent(params.systemUrl) : '/');
+      } else {
+        alert(res.data.msg);
+      }
+    });
+  </script>
+</body>
+</html>

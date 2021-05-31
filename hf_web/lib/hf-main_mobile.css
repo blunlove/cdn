@@ -1,0 +1,10 @@
+@import './element/element-ui@2.13.2.css';
+@import './vant/vant@2.12.9.css';
+@import './icons.css';
+@font-face {
+  font-family: number;
+  src: url("./fonts/number.ttf");
+}
+body {
+  text-size-adjust: none !important;
+}
