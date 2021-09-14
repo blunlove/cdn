@@ -6,6 +6,13 @@
   "description": "阿里云事业部",
   "glyphs": [
     {
+      "icon_id": "18446819",
+      "name": "无穷大",
+      "font_class": "wuqiongda",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
       "icon_id": "5767878",
       "name": "告警",
       "font_class": "gaojing1",
