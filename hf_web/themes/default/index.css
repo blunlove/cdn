@@ -1,0 +1,22 @@
+@import '/hf_web/lib/element/element-ui@2.13.2.css';
+@import './theme.css';
+@import '/hf_web/lib/element-replace.css';
+@import '/hf_web/lib/icons.css';
+:root {
+  --color-primary: #409EFF;
+  --color-success: #67C23A;
+  --color-warning: #E6A23C;
+  --color-danger: #F56C6C;
+  --color-info: #909399;
+  --color-text-primary: #333333;
+  --color-text-regular: #656565;
+  --color-text-secondary: #999999;
+  --color-text-placeholder: #CBCBCB;
+  --border-color-base: #DBDBDB;
+  --border-color-light: #E8E8E8;
+  --border-color-lighter: #F2F2F2;
+  --border-color-extra-light: #F6F6F6;
+  --color-white: #FFFFFF;
+  --color-black: #000000;
+  --background-color-base: #F5F7FA;
+}

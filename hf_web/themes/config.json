@@ -1,0 +1,51 @@
+[
+	{
+		"_id": "6440eda4f43d33c5335b350e",
+		"dir": "default",
+		"name": "默认",
+		"imgurl": "/hf_web/themes/default/thumb.png",
+		"themeCss": "/hf_web/themes/default/index.css"
+	},
+	{
+		"_id": "6440edb2f43d33c5335b3525",
+		"dir": "purple",
+		"name": "葡萄紫",
+		"imgurl": "/hf_web/themes/purple/thumb.png",
+		"themeCss": "/hf_web/themes/purple/index.css"
+	},
+	{
+		"_id": "6440edbff43d33c5335b3534",
+		"dir": "violet",
+		"name": "紫罗兰",
+		"imgurl": "/hf_web/themes/violet/thumb.png",
+		"themeCss": "/hf_web/themes/violet/index.css"
+	},
+	{
+		"_id": "6440eddbf43d33c5335b354f",
+		"dir": "green",
+		"name": "蓝绿",
+		"imgurl": "/hf_web/themes/green/thumb.png",
+		"themeCss": "/hf_web/themes/green/index.css"
+	},
+	{
+		"_id": "6440ededf43d33c5335b3564",
+		"dir": "navyblue",
+		"name": "深蓝",
+		"imgurl": "/hf_web/themes/navyblue/thumb.png",
+		"themeCss": "/hf_web/themes/navyblue/index.css"
+	},
+	{
+		"_id": "6441ea83a91422828f2784a8",
+		"dir": "yellow",
+		"name": "柠檬黄",
+		"imgurl": "/hf_web/themes/yellow/thumb.png",
+		"themeCss": "/hf_web/themes/yellow/index.css"
+	},
+	{
+		"_id": "6441f8ffa91422828f278ba7",
+		"dir": "red",
+		"name": "落日红",
+		"imgurl": "/hf_web/themes/red/thumb.png",
+		"themeCss": "/hf_web/themes/red/index.css"
+	}
+]

@@ -1,8 +1,8 @@
 @font-face {
   font-family: "apaas-icon-"; /* Project id 2772953 */
-  src: url('iconfont.woff2?t=1670919888758') format('woff2'),
-       url('iconfont.woff?t=1670919888758') format('woff'),
-       url('iconfont.ttf?t=1670919888758') format('truetype');
+  src: url('iconfont.woff2?t=1678760998894') format('woff2'),
+       url('iconfont.woff?t=1678760998894') format('woff'),
+       url('iconfont.ttf?t=1678760998894') format('truetype');
 }
 
 [class*=" apaas-icon-"], [class^=apaas-icon-] {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.apaas-icon-fahuoqingqiu11:before {
+  content: "\e6b2";
 }
 
 .apaas-icon-shenpijujue:before {

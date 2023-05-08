@@ -1939,7 +1939,7 @@
 		"type": "huafon",
 		"type_CN": "huafon",
 		"nameArray": [
-			"hf-a-huafonLOGO_huaban1",
+			"hf-a-chixujicheng_huaban1",
 			"hf-hetongbiangeng",
 			"hf-HAP",
 			"hf-P3333-12",
@@ -2020,6 +2020,7 @@
 		"type": "huafon-crm",
 		"type_CN": "华峰移动端图标",
 		"nameArray": [
+			"apaas-icon-fahuoqingqiu11",
 			"apaas-icon-shenpijujue",
 			"apaas-icon-yiwanjie",
 			"apaas-icon-shenpitongguo",

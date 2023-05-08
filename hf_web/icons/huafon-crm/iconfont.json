@@ -6,6 +6,13 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "34558533",
+      "name": "发货请求1",
+      "font_class": "fahuoqingqiu11",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
       "icon_id": "33373776",
       "name": "审批拒绝",
       "font_class": "shenpijujue",
