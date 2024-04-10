@@ -47,5 +47,26 @@
 		"name": "落日红",
 		"imgurl": "/hf_web/themes/red/thumb.png",
 		"themeCss": "/hf_web/themes/red/index.css"
+	},
+	{
+		"_id": "6473faa6b3a1cd8d902d95a0",
+		"dir": "深绿",
+		"name": "深绿",
+		"imgurl": "/hf_web/themes/深绿/thumb.png",
+		"themeCss": "/hf_web/themes/深绿/index.css"
+	},
+	{
+		"_id": "6473fb0cb3a1cd8d902d95a6",
+		"dir": "烟花粉",
+		"name": "烟花粉",
+		"imgurl": "/hf_web/themes/烟花粉/thumb.png",
+		"themeCss": "/hf_web/themes/烟花粉/index.css"
+	},
+	{
+		"_id": "6473fbe4b3a1cd8d902d95ca",
+		"dir": "草绿",
+		"name": "草绿",
+		"imgurl": "/hf_web/themes/草绿/thumb.png",
+		"themeCss": "/hf_web/themes/草绿/index.css"
 	}
 ]

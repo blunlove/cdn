@@ -1,315 +1,122 @@
 @font-face {
-  font-family: "hf-"; /* Project id 3320791 */
-  src: url('iconfont.woff2?t=1678760997608') format('woff2'),
-       url('iconfont.woff?t=1678760997608') format('woff'),
-       url('iconfont.ttf?t=1678760997608') format('truetype');
+  font-family: "huafon-";
+  src: url('iconfont.eot?t=1712134883619'); /* IE9*/
+  src: url('iconfont.eot?t=1712134883619#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1712134883619") format("woff2"),
+  url("iconfont.woff?t=1712134883619") format("woff"),
+  url('iconfont.ttf?t=1712134883619') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1712134883619#iconfont') format('svg'); /* iOS 4.1- */
 }
 
-[class*=" hf-"], [class^=hf-] {
-  font-family: "hf-" !important;
-  font-size: inherit;
-  font-style: normal;
+[class^="huafon-"], [class*=" huafon-"] {
+  font-family: 'huafon-' !important;
+  font-style:normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.hf-a-chixujicheng_huaban1:before {
-  content: "\e6ad";
-}
 
-.hf-hetongbiangeng:before {
-  content: "\e698";
-}
-
-.hf-HAP:before {
-  content: "\e696";
-}
-
-.hf-P3333-12:before {
-  content: "\e65e";
-}
-
-.hf-a-huafengMESpc-06:before {
-  content: "\e65d";
-}
-
-.hf-a-huafengMESpc-061:before {
-  content: "\e662";
-}
-
-.hf-lvyeMMM:before {
-  content: "\e65c";
-}
-
-.hf-lvyeMMM-09:before {
-  content: "\e663";
-}
-
-.hf-MESlvye:before {
-  content: "\e661";
-}
-
-.hf-MESlvye-09:before {
-  content: "\e65b";
-}
-
-.hf-a-lvye-09:before {
-  content: "\e65a";
-}
-
-.hf-wujian-28:before {
-  content: "\e659";
-}
-
-.hf-PCshuju-08:before {
-  content: "\e658";
-}
-
-.hf-PC27-27:before {
-  content: "\e63a";
-}
-
-.hf-PCzhoubao-14:before {
-  content: "\e652";
-}
-
-.hf-qiyexinxichaxun:before {
-  content: "\e62c";
-}
-
-.hf-a-chaoxianzhijianpc:before {
-  content: "\e62d";
-}
-
-.hf-chaoxianzhijianQAS:before {
-  content: "\e62e";
-}
-
-.hf-a-hechengshengchanxitongpc:before {
-  content: "\e62f";
-}
-
-.hf-a-caiwutouzipc:before {
-  content: "\e630";
-}
-
-.hf-HAPkaifangpingtai:before {
-  content: "\e631";
-}
-
-.hf-a-hechengfupc:before {
-  content: "\e632";
-}
-
-.hf-a-bancheyuyuepc:before {
-  content: "\e633";
-}
-
-.hf-a-MESceshipc:before {
-  content: "\e634";
-}
-
-.hf-a-weicaifahuopc:before {
-  content: "\e635";
-}
-
-.hf-a-chaoxianbaojiapc:before {
-  content: "\e636";
-}
-
-.hf-a-renwuguanlipc:before {
-  content: "\e637";
-}
-
-.hf-a-yidongdakapc:before {
-  content: "\e638";
-}
-
-.hf-a-anlunzhuisupc:before {
-  content: "\e639";
-}
-
-.hf-a-baogongshifuzhuxitongpc:before {
-  content: "\e63d";
-}
-
-.hf-a-jituanshujucaijipc:before {
-  content: "\e63b";
-}
-
-.hf-a-chixujichengpc:before {
-  content: "\e63c";
-}
-
-.hf-a-xinziguanlipingtaipc:before {
-  content: "\e63e";
-}
-
-.hf-qidongPDA:before {
-  content: "\e641";
-}
-
-.hf-a-BIxitongpc:before {
-  content: "\e642";
-}
-
-.hf-a-tuishuipc:before {
-  content: "\e644";
-}
-
-.hf-a-shiliyingyongpc:before {
-  content: "\e645";
-}
-
-.hf-a-MESbendi2pc:before {
-  content: "\e646";
-}
-
-.hf-a-lvyejihuapc:before {
-  content: "\e647";
-}
-
-.hf-a-yingqihulianpc:before {
-  content: "\e648";
-}
-
-.hf-a-piaojupingtaipc:before {
-  content: "\e649";
-}
-
-.hf-a-jichupingtaipc:before {
-  content: "\e64b";
-}
-
-.hf-a-demoyingyongpc:before {
-  content: "\e64c";
-}
-
-.hf-a-huafengMESpc:before {
-  content: "\e64d";
-}
-
-.hf-a-kehuduanguanlipc:before {
-  content: "\e64e";
-}
-
-.hf-a-chaoxianshengchanpc:before {
-  content: "\e64f";
-}
-
-.hf-a-weiyingyongoc:before {
-  content: "\e650";
-}
-
-.hf-a-caiwuxitongpc:before {
-  content: "\e651";
-}
-
-.hf-a-lvyeMESpc:before {
-  content: "\e655";
-}
-
-.hf-a-xiaoxitongzhifuwupc:before {
-  content: "\e656";
-}
-
-.hf-a-lvyebaojiapc:before {
-  content: "\e657";
-}
-
-.hf-yidong-copy:before {
-  content: "\e660";
-}
-
-.hf-yidong:before {
-  content: "\e616";
-}
-
-.hf-xinxiang:before {
-  content: "\e617";
-}
-
-.hf-xiaoxi:before {
-  content: "\e618";
-}
-
-.hf-weicaifahuo:before {
-  content: "\e619";
-}
-
-.hf-baojia:before {
-  content: "\e61a";
-}
-
-.hf-anlunzhuisu:before {
-  content: "\e61b";
-}
-
-.hf-BIbaobiao:before {
-  content: "\e61c";
-}
-
-.hf-banche:before {
-  content: "\e61d";
-}
-
-.hf-dingcan:before {
-  content: "\e61e";
-}
-
-.hf-chaoxian:before {
-  content: "\e61f";
-}
-
-.hf-xinzi:before {
-  content: "\e620";
-}
-
-.hf-qiyekaipiao:before {
-  content: "\e621";
-}
-
-.hf-fengji:before {
-  content: "\e622";
-}
-
-.hf-zhishi:before {
-  content: "\e623";
-}
-
-.hf-fangke:before {
-  content: "\e624";
-}
-
-.hf-anluncaigou:before {
-  content: "\e625";
-}
-
-.hf-bangong:before {
-  content: "\e626";
-}
-
-.hf-xiaofei:before {
-  content: "\e627";
-}
-
-.hf-qianzhe:before {
-  content: "\e628";
-}
-
-.hf-zhoubao:before {
-  content: "\e629";
-}
-
-.hf-renshi:before {
-  content: "\e62a";
-}
-
-.hf-qianlian:before {
-  content: "\e62b";
-}
-
-.hf-BIbaobiao-copy:before {
-  content: "\e65f";
-}
+.huafon-BIbaobiao-copy:before { content: "\ea01"; }
+.huafon-BIbaobiao:before { content: "\ea02"; }
+.huafon-HAP:before { content: "\ea03"; }
+.huafon-HAPkaifangpingtai:before { content: "\ea04"; }
+.huafon-MESlvye-09:before { content: "\ea05"; }
+.huafon-MESlvye:before { content: "\ea06"; }
+.huafon-P3333-12:before { content: "\ea07"; }
+.huafon-PC27-27:before { content: "\ea08"; }
+.huafon-PCshuju-08:before { content: "\ea09"; }
+.huafon-PCzhoubao-14:before { content: "\ea0a"; }
+.huafon-a-1:before { content: "\ea0b"; }
+.huafon-a-BIxitongpc:before { content: "\ea0c"; }
+.huafon-a-MESbendi2pc:before { content: "\ea0d"; }
+.huafon-a-MESceshipc:before { content: "\ea0e"; }
+.huafon-a-anlunzhuisupc:before { content: "\ea0f"; }
+.huafon-a-bancheyuyuepc:before { content: "\ea10"; }
+.huafon-a-baogongshifuzhuxitongpc:before { content: "\ea11"; }
+.huafon-a-caiwutouzipc:before { content: "\ea12"; }
+.huafon-a-caiwuxitongpc:before { content: "\ea13"; }
+.huafon-a-chaoxianbaojiapc:before { content: "\ea14"; }
+.huafon-a-chaoxianshengchanpc:before { content: "\ea15"; }
+.huafon-a-chaoxianzhijianpc:before { content: "\ea16"; }
+.huafon-a-chixujicheng_huaban1:before { content: "\ea17"; }
+.huafon-a-chixujichengpc:before { content: "\ea18"; }
+.huafon-a-demoyingyongpc:before { content: "\ea19"; }
+.huafon-a-hechengfupc:before { content: "\ea1a"; }
+.huafon-a-hechengshengchanxitongpc:before { content: "\ea1b"; }
+.huafon-a-huafengMESpc-06:before { content: "\ea1c"; }
+.huafon-a-huafengMESpc-061:before { content: "\ea1d"; }
+.huafon-a-huafengMESpc:before { content: "\ea1e"; }
+.huafon-a-jichupingtaipc:before { content: "\ea1f"; }
+.huafon-a-jituanshujucaijipc:before { content: "\ea20"; }
+.huafon-a-kaiguan1:before { content: "\ea21"; }
+.huafon-a-kehuduanguanlipc:before { content: "\ea22"; }
+.huafon-a-lvye-09:before { content: "\ea23"; }
+.huafon-a-lvyeMESpc:before { content: "\ea24"; }
+.huafon-a-lvyebaojiapc:before { content: "\ea25"; }
+.huafon-a-lvyejihuapc:before { content: "\ea26"; }
+.huafon-a-piaojupingtaipc:before { content: "\ea27"; }
+.huafon-a-qiye11:before { content: "\ea28"; }
+.huafon-a-renwuguanlipc:before { content: "\ea29"; }
+.huafon-a-shiliyingyongpc:before { content: "\ea2a"; }
+.huafon-a-shoucang12beifen2:before { content: "\ea2b"; }
+.huafon-a-tuishuipc:before { content: "\ea2c"; }
+.huafon-a-weicaifahuopc:before { content: "\ea2d"; }
+.huafon-a-weiyingyongoc:before { content: "\ea2e"; }
+.huafon-a-xiaoxitongzhifuwupc:before { content: "\ea2f"; }
+.huafon-a-xinziguanlipingtaipc:before { content: "\ea30"; }
+.huafon-a-yidongdakapc:before { content: "\ea31"; }
+.huafon-a-yingqihulianpc:before { content: "\ea32"; }
+.huafon-anluncaigou:before { content: "\ea33"; }
+.huafon-anlunzhuisu:before { content: "\ea34"; }
+.huafon-back-build:before { content: "\ea35"; }
+.huafon-back-end-app:before { content: "\ea36"; }
+.huafon-banche:before { content: "\ea37"; }
+.huafon-bangong:before { content: "\ea38"; }
+.huafon-baojia:before { content: "\ea39"; }
+.huafon-chaoxian:before { content: "\ea3a"; }
+.huafon-chaoxianzhijianQAS:before { content: "\ea3b"; }
+.huafon-dengluxinxiguanli:before { content: "\ea3c"; }
+.huafon-dingcan:before { content: "\ea3d"; }
+.huafon-eye:before { content: "\ea3e"; }
+.huafon-fangke:before { content: "\ea3f"; }
+.huafon-fengji:before { content: "\ea40"; }
+.huafon-fenzu:before { content: "\ea41"; }
+.huafon-fire:before { content: "\ea42"; }
+.huafon-front-build:before { content: "\ea43"; }
+.huafon-front-end-app:before { content: "\ea44"; }
+.huafon-gerenzhanghu1:before { content: "\ea45"; }
+.huafon-hetongbiangeng:before { content: "\ea46"; }
+.huafon-huishou-shanchu:before { content: "\ea47"; }
+.huafon-lvyeMMM-09:before { content: "\ea48"; }
+.huafon-lvyeMMM:before { content: "\ea49"; }
+.huafon-mima1:before { content: "\ea4a"; }
+.huafon-piliangxuanze:before { content: "\ea4b"; }
+.huafon-qianlian:before { content: "\ea4c"; }
+.huafon-qianzhe:before { content: "\ea4d"; }
+.huafon-qidongPDA:before { content: "\ea4e"; }
+.huafon-qiyekaipiao:before { content: "\ea4f"; }
+.huafon-qiyexinxichaxun:before { content: "\ea50"; }
+.huafon-renshi:before { content: "\ea51"; }
+.huafon-shangchuantouxiang:before { content: "\ea52"; }
+.huafon-shouji1:before { content: "\ea53"; }
+.huafon-tubiaotihuan:before { content: "\ea54"; }
+.huafon-weicaifahuo:before { content: "\ea55"; }
+.huafon-wodeziyuan:before { content: "\ea56"; }
+.huafon-wujian-28:before { content: "\ea57"; }
+.huafon-xiangji:before { content: "\ea58"; }
+.huafon-xiangmushezhi:before { content: "\ea59"; }
+.huafon-xiaofei:before { content: "\ea5a"; }
+.huafon-xiaoxi:before { content: "\ea5b"; }
+.huafon-xiazai:before { content: "\ea5c"; }
+.huafon-xinxiang:before { content: "\ea5d"; }
+.huafon-xinzi:before { content: "\ea5e"; }
+.huafon-xiugaimima:before { content: "\ea5f"; }
+.huafon-yidong-copy:before { content: "\ea60"; }
+.huafon-yidong:before { content: "\ea61"; }
+.huafon-yonghu:before { content: "\ea62"; }
+.huafon-youxiang1:before { content: "\ea63"; }
+.huafon-yunshangchuan:before { content: "\ea64"; }
+.huafon-zhishi:before { content: "\ea65"; }
+.huafon-zhoubao:before { content: "\ea66"; }
+.huafon-zhuanyi:before { content: "\ea67"; }
 

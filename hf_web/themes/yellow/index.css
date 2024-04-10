@@ -3,11 +3,11 @@
 @import '/hf_web/lib/element-replace.css';
 @import '/hf_web/lib/icons.css';
 :root {
-  --color-primary: #F9CF23;
-  --color-success: #7BE67D;
+  --color-primary: #FDAD17;
+  --color-success: #67C23A;
   --color-warning: #8676F3;
   --color-danger: #ED4B15;
-  --color-info: #49CDC1;
+  --color-info: #909399;
   --color-text-primary: #333333;
   --color-text-regular: #656565;
   --color-text-secondary: #999999;

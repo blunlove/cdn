@@ -1,8 +1,7 @@
 // 引入飞书依赖文件
 var feishuScript = document.createElement('script');
 feishuScript.type = 'text/javascript';
-feishuScript.src =
-  'https://lf1-cdn-tos.bytegoofy.com/goofy/lark/op/h5-js-sdk-1.5.19.js';
+feishuScript.src = '/hf_web/lib/feishu_h5-js-sdk-1.5.19.js';
 var body = document.getElementsByTagName('body')[0];
 body.appendChild(feishuScript);
 

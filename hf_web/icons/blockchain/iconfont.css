@@ -1,147 +1,52 @@
 @font-face {
-  font-family: "blockchain-"; /* Project id 2314116 */
-  src: url('iconfont.woff2?t=1678760998079') format('woff2'),
-       url('iconfont.woff?t=1678760998079') format('woff'),
-       url('iconfont.ttf?t=1678760998079') format('truetype');
+  font-family: "blockchain-";
+  src: url('iconfont.eot?t=1704348754499'); /* IE9*/
+  src: url('iconfont.eot?t=1704348754499#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1704348754499") format("woff2"),
+  url("iconfont.woff?t=1704348754499") format("woff"),
+  url('iconfont.ttf?t=1704348754499') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1704348754499#iconfont') format('svg'); /* iOS 4.1- */
 }
 
-[class*=" blockchain-"], [class^=blockchain-] {
-  font-family: "blockchain-" !important;
-  font-size: inherit;
-  font-style: normal;
+[class^="blockchain-"], [class*=" blockchain-"] {
+  font-family: 'blockchain-' !important;
+  font-style:normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.blockchain-application:before {
-  content: "\e613";
-}
 
-.blockchain-application2:before {
-  content: "\e614";
-}
-
-.blockchain-asymmetry:before {
-  content: "\e615";
-}
-
-.blockchain-data:before {
-  content: "\e616";
-}
-
-.blockchain-certificate:before {
-  content: "\e617";
-}
-
-.blockchain-edit:before {
-  content: "\e618";
-}
-
-.blockchain-delete:before {
-  content: "\e619";
-}
-
-.blockchain-chain:before {
-  content: "\e61a";
-}
-
-.blockchain-record:before {
-  content: "\e61b";
-}
-
-.blockchain-time:before {
-  content: "\e61c";
-}
-
-.blockchain-download:before {
-  content: "\e61d";
-}
-
-.blockchain-layer:before {
-  content: "\e61e";
-}
-
-.blockchain-rock:before {
-  content: "\e61f";
-}
-
-.blockchain-lightningnetwork:before {
-  content: "\e620";
-}
-
-.blockchain-voice:before {
-  content: "\e621";
-}
-
-.blockchain-miner:before {
-  content: "\e622";
-}
-
-.blockchain-upload:before {
-  content: "\e623";
-}
-
-.blockchain-search:before {
-  content: "\e624";
-}
-
-.blockchain-wallet:before {
-  content: "\e625";
-}
-
-.blockchain-style:before {
-  content: "\e626";
-}
-
-.blockchain-fee:before {
-  content: "\e627";
-}
-
-.blockchain-trade:before {
-  content: "\e628";
-}
-
-.blockchain-customerservice:before {
-  content: "\e629";
-}
-
-.blockchain-safe:before {
-  content: "\e62a";
-}
-
-.blockchain-warning:before {
-  content: "\e62b";
-}
-
-.blockchain-mobile2:before {
-  content: "\e62c";
-}
-
-.blockchain-payment:before {
-  content: "\e62d";
-}
-
-.blockchain-address:before {
-  content: "\e62e";
-}
-
-.blockchain-invite:before {
-  content: "\e62f";
-}
-
-.blockchain-mobile:before {
-  content: "\e630";
-}
-
-.blockchain-transferin:before {
-  content: "\e631";
-}
-
-.blockchain-warning_1:before {
-  content: "\e632";
-}
-
-.blockchain-transferout:before {
-  content: "\e633";
-}
+.blockchain-address:before { content: "\ea01"; }
+.blockchain-application:before { content: "\ea02"; }
+.blockchain-application2:before { content: "\ea03"; }
+.blockchain-asymmetry:before { content: "\ea04"; }
+.blockchain-certificate:before { content: "\ea05"; }
+.blockchain-chain:before { content: "\ea06"; }
+.blockchain-customerservice:before { content: "\ea07"; }
+.blockchain-data:before { content: "\ea08"; }
+.blockchain-delete:before { content: "\ea09"; }
+.blockchain-download:before { content: "\ea0a"; }
+.blockchain-edit:before { content: "\ea0b"; }
+.blockchain-fee:before { content: "\ea0c"; }
+.blockchain-invite:before { content: "\ea0d"; }
+.blockchain-layer:before { content: "\ea0e"; }
+.blockchain-lightningnetwork:before { content: "\ea0f"; }
+.blockchain-miner:before { content: "\ea10"; }
+.blockchain-mobile:before { content: "\ea11"; }
+.blockchain-mobile2:before { content: "\ea12"; }
+.blockchain-payment:before { content: "\ea13"; }
+.blockchain-record:before { content: "\ea14"; }
+.blockchain-rock:before { content: "\ea15"; }
+.blockchain-safe:before { content: "\ea16"; }
+.blockchain-search:before { content: "\ea17"; }
+.blockchain-style:before { content: "\ea18"; }
+.blockchain-time:before { content: "\ea19"; }
+.blockchain-trade:before { content: "\ea1a"; }
+.blockchain-transferin:before { content: "\ea1b"; }
+.blockchain-transferout:before { content: "\ea1c"; }
+.blockchain-upload:before { content: "\ea1d"; }
+.blockchain-voice:before { content: "\ea1e"; }
+.blockchain-wallet:before { content: "\ea1f"; }
+.blockchain-warning:before { content: "\ea20"; }
+.blockchain-warning_1:before { content: "\ea21"; }
 
