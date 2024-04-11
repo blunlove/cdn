@@ -12,8 +12,8 @@ var scripts = [
 	"/hf_web/icons/blockchain/iconfont.js",
 	"/hf_web/icons/zhifubao/iconfont.js",
 	"/hf_web/icons/crov-icon/iconfont.js",
-	"/hf_web/icons/huafon/iconfont.js",
-	"/hf_web/icons/huafon-crm/iconfont.js"
+	"/hf_web/icons/crm-pure/iconfont.js",
+	"/hf_web/icons/huafon-tag/iconfont.js"
 ]
 scripts.forEach(url => {
   head.appendChild(addScript(url))

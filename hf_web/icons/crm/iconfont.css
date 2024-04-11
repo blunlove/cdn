@@ -1,0 +1,185 @@
+@font-face {
+  font-family: "crm-";
+  src: url('iconfont.eot?t=1709690074043'); /* IE9*/
+  src: url('iconfont.eot?t=1709690074043#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1709690074043") format("woff2"),
+  url("iconfont.woff?t=1709690074043") format("woff"),
+  url('iconfont.ttf?t=1709690074043') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1709690074043#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+[class^="crm-"], [class*=" crm-"] {
+  font-family: 'crm-' !important;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.crm-albhsq:before { content: "\ea01"; }
+.crm-anlunbuhuoshenqing:before { content: "\ea02"; }
+.crm-bfkh:before { content: "\ea03"; }
+.crm-bftj:before { content: "\ea04"; }
+.crm-bgdcx:before { content: "\ea05"; }
+.crm-bireport:before { content: "\ea06"; }
+.crm-bjd:before { content: "\ea07"; }
+.crm-bottom-dmfcaigoushenqing:before { content: "\ea08"; }
+.crm-bottom-xindingdan:before { content: "\ea09"; }
+.crm-bottom-xindongtai:before { content: "\ea0a"; }
+.crm-bottom-xinhetong:before { content: "\ea0b"; }
+.crm-bottom-xinjihuawaifahuo:before { content: "\ea0c"; }
+.crm-bottom-xinkehu:before { content: "\ea0d"; }
+.crm-bottom-xinrenwu:before { content: "\ea0e"; }
+.crm-bottom-xinshangji:before { content: "\ea0f"; }
+.crm-bottom-xinshiliao:before { content: "\ea10"; }
+.crm-bottom-xintejiashenqing:before { content: "\ea11"; }
+.crm-bottom-xinyingxiaozhengce:before { content: "\ea12"; }
+.crm-bsckccx:before { content: "\ea13"; }
+.crm-chanpin:before { content: "\ea14"; }
+.crm-chanpin360:before { content: "\ea15"; }
+.crm-chaoxiantonghang:before { content: "\ea16"; }
+.crm-chart:before { content: "\ea17"; }
+.crm-company-icon:before { content: "\ea18"; }
+.crm-cpzsj:before { content: "\ea19"; }
+.crm-cqhgjsj:before { content: "\ea1a"; }
+.crm-credit-icon:before { content: "\ea1b"; }
+.crm-cstz:before { content: "\ea1c"; }
+.crm-customergrade:before { content: "\ea1d"; }
+.crm-cxbb:before { content: "\ea1e"; }
+.crm-cxtjsq:before { content: "\ea1f"; }
+.crm-cyyjgl:before { content: "\ea20"; }
+.crm-czqqk:before { content: "\ea21"; }
+.crm-daibanshiyi:before { content: "\ea22"; }
+.crm-daixiangdingdan:before { content: "\ea23"; }
+.crm-datatemplate_jzdslb:before { content: "\ea24"; }
+.crm-ddhtsp:before { content: "\ea25"; }
+.crm-ddhttx:before { content: "\ea26"; }
+.crm-diaoboguanli:before { content: "\ea27"; }
+.crm-ding-dan-shu-liang:before { content: "\ea28"; }
+.crm-dingdan_icon:before { content: "\ea29"; }
+.crm-dingdanguanli:before { content: "\ea2a"; }
+.crm-diyadanbao:before { content: "\ea2b"; }
+.crm-dmf-blue:before { content: "\ea2c"; }
+.crm-dmf-green:before { content: "\ea2d"; }
+.crm-dmf-orange:before { content: "\ea2e"; }
+.crm-dmf-red:before { content: "\ea2f"; }
+.crm-dmfhsgl:before { content: "\ea30"; }
+.crm-dmfhuishouguanli:before { content: "\ea31"; }
+.crm-dongtaishouxin:before { content: "\ea32"; }
+.crm-dongtaitongji:before { content: "\ea33"; }
+.crm-dzkc:before { content: "\ea34"; }
+.crm-fa-huo-shu-liang:before { content: "\ea35"; }
+.crm-fapiaomingxi:before { content: "\ea36"; }
+.crm-fxkhba:before { content: "\ea37"; }
+.crm-gongzuorenwu:before { content: "\ea38"; }
+.crm-gymjgcx:before { content: "\ea39"; }
+.crm-gzrw:before { content: "\ea3a"; }
+.crm-hcyxzcsqlb:before { content: "\ea3b"; }
+.crm-he-cheng-hui-shou:before { content: "\ea3c"; }
+.crm-hetong_icon:before { content: "\ea3d"; }
+.crm-hetongbiangeng:before { content: "\ea3e"; }
+.crm-hetongguanli:before { content: "\ea3f"; }
+.crm-hetongshiwu:before { content: "\ea40"; }
+.crm-hetongyingxiao:before { content: "\ea41"; }
+.crm-hkwcl:before { content: "\ea42"; }
+.crm-hotel:before { content: "\ea43"; }
+.crm-htbb:before { content: "\ea44"; }
+.crm-huaxueshoukuandan:before { content: "\ea45"; }
+.crm-huaxuetejiashenqing:before { content: "\ea46"; }
+.crm-hui-kuang:before { content: "\ea47"; }
+.crm-hxskd:before { content: "\ea48"; }
+.crm-hxtjsq:before { content: "\ea49"; }
+.crm-hygym:before { content: "\ea4a"; }
+.crm-icon-aging:before { content: "\ea4b"; }
+.crm-icon-chanpinxinxi:before { content: "\ea4c"; }
+.crm-icon-date:before { content: "\ea4d"; }
+.crm-icon-hechenghuishouqingkuang:before { content: "\ea4e"; }
+.crm-icon-jingzhengduishou:before { content: "\ea4f"; }
+.crm-icon-kehushengchan:before { content: "\ea50"; }
+.crm-icon-kehushoukuan:before { content: "\ea51"; }
+.crm-icon-kehutousu:before { content: "\ea52"; }
+.crm-icon-kehuyingli:before { content: "\ea53"; }
+.crm-icon-long-term-credit-line:before { content: "\ea54"; }
+.crm-icon-overdue-arrears:before { content: "\ea55"; }
+.crm-icon-payable-from-next-week:before { content: "\ea56"; }
+.crm-icon-search:before { content: "\ea57"; }
+.crm-icon-settlement-period:before { content: "\ea58"; }
+.crm-icon-total-arrears:before { content: "\ea59"; }
+.crm-icon-total-rebate-pool:before { content: "\ea5a"; }
+.crm-icon-used-credit-limit:before { content: "\ea5b"; }
+.crm-icon-xiangmugenjin:before { content: "\ea5c"; }
+.crm-jhwfh:before { content: "\ea5d"; }
+.crm-jiesuanjiashenqing:before { content: "\ea5e"; }
+.crm-jigoutongxunlu:before { content: "\ea5f"; }
+.crm-jihuawaifahuo:before { content: "\ea60"; }
+.crm-jingzhengduishou:before { content: "\ea61"; }
+.crm-kai-piao-shu-liang:before { content: "\ea62"; }
+.crm-kehubaifang:before { content: "\ea63"; }
+.crm-khbf:before { content: "\ea64"; }
+.crm-khfpmx:before { content: "\ea65"; }
+.crm-khls:before { content: "\ea66"; }
+.crm-khqkfb:before { content: "\ea67"; }
+.crm-khskmx:before { content: "\ea68"; }
+.crm-khsp:before { content: "\ea69"; }
+.crm-kslb:before { content: "\ea6a"; }
+.crm-message_off:before { content: "\ea6b"; }
+.crm-message_on:before { content: "\ea6c"; }
+.crm-nxdd:before { content: "\ea6d"; }
+.crm-nxht:before { content: "\ea6e"; }
+.crm-product360_unitconversion:before { content: "\ea6f"; }
+.crm-qbjj:before { content: "\ea70"; }
+.crm-qbjs:before { content: "\ea71"; }
+.crm-rate-avatar:before { content: "\ea72"; }
+.crm-riskwarning0:before { content: "\ea73"; }
+.crm-riskwarning1:before { content: "\ea74"; }
+.crm-riskwarning10:before { content: "\ea75"; }
+.crm-riskwarning11:before { content: "\ea76"; }
+.crm-riskwarning12:before { content: "\ea77"; }
+.crm-riskwarning13:before { content: "\ea78"; }
+.crm-riskwarning14:before { content: "\ea79"; }
+.crm-riskwarning2:before { content: "\ea7a"; }
+.crm-riskwarning3:before { content: "\ea7b"; }
+.crm-riskwarning4:before { content: "\ea7c"; }
+.crm-riskwarning5:before { content: "\ea7d"; }
+.crm-riskwarning6:before { content: "\ea7e"; }
+.crm-riskwarning7:before { content: "\ea7f"; }
+.crm-riskwarning8:before { content: "\ea80"; }
+.crm-riskwarning9:before { content: "\ea81"; }
+.crm-rsxyxzcsq:before { content: "\ea82"; }
+.crm-shangjiguanli:before { content: "\ea83"; }
+.crm-shfw:before { content: "\ea84"; }
+.crm-shiliaodingdan:before { content: "\ea85"; }
+.crm-shoukuanmingxi:before { content: "\ea86"; }
+.crm-shouxinliebiao:before { content: "\ea87"; }
+.crm-sides:before { content: "\ea88"; }
+.crm-sjgl:before { content: "\ea89"; }
+.crm-sjtx:before { content: "\ea8a"; }
+.crm-sktx:before { content: "\ea8b"; }
+.crm-sldd:before { content: "\ea8c"; }
+.crm-spdb:before { content: "\ea8d"; }
+.crm-tianjiachangyong:before { content: "\ea8e"; }
+.crm-tputjsq:before { content: "\ea8f"; }
+.crm-tzgg:before { content: "\ea90"; }
+.crm-wdlc:before { content: "\ea91"; }
+.crm-wdrw:before { content: "\ea92"; }
+.crm-weiwaichuzhi:before { content: "\ea93"; }
+.crm-wodechexiao:before { content: "\ea94"; }
+.crm-wodeqingqiu:before { content: "\ea95"; }
+.crm-woderenwu:before { content: "\ea96"; }
+.crm-xclyxzcsq:before { content: "\ea97"; }
+.crm-xincailiaoshoukuan:before { content: "\ea98"; }
+.crm-xincailiaoshouxin:before { content: "\ea99"; }
+.crm-xsbjlrb:before { content: "\ea9a"; }
+.crm-xsht:before { content: "\ea9b"; }
+.crm-xsjhwcl:before { content: "\ea9c"; }
+.crm-xytx:before { content: "\ea9d"; }
+.crm-yibanshiyi:before { content: "\ea9e"; }
+.crm-yingxiaozhengce:before { content: "\ea9f"; }
+.crm-yingxiaozhengce_2:before { content: "\eaa0"; }
+.crm-yingxiaozhengce_3:before { content: "\eaa1"; }
+.crm-yqkh:before { content: "\eaa2"; }
+.crm-yxlyg:before { content: "\eaa3"; }
+.crm-zaishengshouxin:before { content: "\eaa4"; }
+.crm-zbkccx:before { content: "\eaa5"; }
+.crm-zsdj:before { content: "\eaa6"; }
+

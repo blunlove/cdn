@@ -1,11 +1,11 @@
 @font-face {
   font-family: "alicause-";
-  src: url('iconfont.eot?t=1704348868857'); /* IE9*/
-  src: url('iconfont.eot?t=1704348868857#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("iconfont.woff2?t=1704348868857") format("woff2"),
-  url("iconfont.woff?t=1704348868857") format("woff"),
-  url('iconfont.ttf?t=1704348868857') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1704348868857#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1704417722239'); /* IE9*/
+  src: url('iconfont.eot?t=1704417722239#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1704417722239") format("woff2"),
+  url("iconfont.woff?t=1704417722239") format("woff"),
+  url('iconfont.ttf?t=1704417722239') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1704417722239#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 [class^="alicause-"], [class*=" alicause-"] {

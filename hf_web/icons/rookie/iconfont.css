@@ -1,11 +1,11 @@
 @font-face {
   font-family: "rookie-";
-  src: url('iconfont.eot?t=1704348796048'); /* IE9*/
-  src: url('iconfont.eot?t=1704348796048#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("iconfont.woff2?t=1704348796048") format("woff2"),
-  url("iconfont.woff?t=1704348796048") format("woff"),
-  url('iconfont.ttf?t=1704348796048') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1704348796048#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1704417800683'); /* IE9*/
+  src: url('iconfont.eot?t=1704417800683#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1704417800683") format("woff2"),
+  url("iconfont.woff?t=1704417800683") format("woff"),
+  url('iconfont.ttf?t=1704417800683') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1704417800683#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 [class^="rookie-"], [class*=" rookie-"] {

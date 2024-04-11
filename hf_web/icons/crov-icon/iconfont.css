@@ -1,11 +1,11 @@
 @font-face {
   font-family: "crov-icon-";
-  src: url('iconfont.eot?t=1704348642739'); /* IE9*/
-  src: url('iconfont.eot?t=1704348642739#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("iconfont.woff2?t=1704348642739") format("woff2"),
-  url("iconfont.woff?t=1704348642739") format("woff"),
-  url('iconfont.ttf?t=1704348642739') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1704348642739#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1704417994650'); /* IE9*/
+  src: url('iconfont.eot?t=1704417994650#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1704417994650") format("woff2"),
+  url("iconfont.woff?t=1704417994650") format("woff"),
+  url('iconfont.ttf?t=1704417994650') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1704417994650#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 [class^="crov-icon-"], [class*=" crov-icon-"] {

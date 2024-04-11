@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "crm-illustration-";
+  src: url('iconfont.eot?t=1709258147004'); /* IE9*/
+  src: url('iconfont.eot?t=1709258147004#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1709258147004") format("woff2"),
+  url("iconfont.woff?t=1709258147004") format("woff"),
+  url('iconfont.ttf?t=1709258147004') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1709258147004#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+[class^="crm-illustration-"], [class*=" crm-illustration-"] {
+  font-family: 'crm-illustration-' !important;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.crm-illustration-client:before { content: "\ea01"; }
+.crm-illustration-contract_header:before { content: "\ea02"; }
+.crm-illustration-credit_empty_2:before { content: "\ea03"; }
+.crm-illustration-dingdan_empty:before { content: "\ea04"; }
+.crm-illustration-empty:before { content: "\ea05"; }
+.crm-illustration-hetong_empty:before { content: "\ea06"; }
+.crm-illustration-login_bg:before { content: "\ea07"; }
+.crm-illustration-order_header:before { content: "\ea08"; }
+.crm-illustration-ribbon:before { content: "\ea09"; }
+

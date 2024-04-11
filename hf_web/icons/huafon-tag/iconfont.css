@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "huafon-tag-";
+  src: url('iconfont.eot?t=1712109894575'); /* IE9*/
+  src: url('iconfont.eot?t=1712109894575#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1712109894575") format("woff2"),
+  url("iconfont.woff?t=1712109894575") format("woff"),
+  url('iconfont.ttf?t=1712109894575') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1712109894575#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+[class^="huafon-tag-"], [class*=" huafon-tag-"] {
+  font-family: 'huafon-tag-' !important;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.huafon-tag-chanpinxilie:before { content: "\ea01"; }
+.huafon-tag-dianhua:before { content: "\ea02"; }
+.huafon-tag-diaopaishengou:before { content: "\ea03"; }
+.huafon-tag-dihao:before { content: "\ea04"; }
+.huafon-tag-huaban:before { content: "\ea05"; }
+.huafon-tag-huanbao:before { content: "\ea06"; }
+.huafon-tag-jiankang:before { content: "\ea07"; }
+.huafon-tag-lianxiwomen:before { content: "\ea08"; }
+.huafon-tag-pinpaidongtai:before { content: "\ea09"; }
+.huafon-tag-pinpailinian:before { content: "\ea0a"; }
+.huafon-tag-qingjie:before { content: "\ea0b"; }
+.huafon-tag-shengwukerongjie:before { content: "\ea0c"; }
+.huafon-tag-yingyonganli:before { content: "\ea0d"; }
+.huafon-tag-youhairongji:before { content: "\ea0e"; }
+.huafon-tag-youxiang:before { content: "\ea0f"; }
+.huafon-tag-zhiwulaiyuan:before { content: "\ea10"; }
+

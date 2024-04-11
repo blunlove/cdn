@@ -1,11 +1,11 @@
 @font-face {
   font-family: "blockchain-";
-  src: url('iconfont.eot?t=1704348754499'); /* IE9*/
-  src: url('iconfont.eot?t=1704348754499#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("iconfont.woff2?t=1704348754499") format("woff2"),
-  url("iconfont.woff?t=1704348754499") format("woff"),
-  url('iconfont.ttf?t=1704348754499') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('iconfont.svg?t=1704348754499#iconfont') format('svg'); /* iOS 4.1- */
+  src: url('iconfont.eot?t=1704417835857'); /* IE9*/
+  src: url('iconfont.eot?t=1704417835857#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("iconfont.woff2?t=1704417835857") format("woff2"),
+  url("iconfont.woff?t=1704417835857") format("woff"),
+  url('iconfont.ttf?t=1704417835857') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1704417835857#iconfont') format('svg'); /* iOS 4.1- */
 }
 
 [class^="blockchain-"], [class*=" blockchain-"] {
